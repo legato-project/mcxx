@@ -81,9 +81,7 @@ code and generate it again.
 For more information check our list of [Mercurium's profiles](doc/md_pages/profiles.md).
 
 ## Contact Information
-
-## Acknowledgements
 For questions, suggestions and bug reports, you can contact us through the pm-tools@bsc.es
 
-
+## Acknowledgements
 This work has been supported by EU H2020 ICT project LEGaTO, contract #780681.
