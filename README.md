@@ -82,5 +82,8 @@ For more information check our list of [Mercurium's profiles](doc/md_pages/profi
 
 ## Contact Information
 
+## Acknowledgements
 For questions, suggestions and bug reports, you can contact us through the pm-tools@bsc.es
 
+
+This work has been supported by EU H2020 ICT project LEGaTO, contract #780681.
